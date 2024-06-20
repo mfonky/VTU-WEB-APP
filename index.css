@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.body{
+  background-color:brown;
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+ 
+}
+.body li{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body li a{
+  color: #f1f1f1; 
+}
+.container{
+  font-family: sans-serif;
+  border: 30px solid;
+  border-color: gray;
+  border-bottom-width:10px;
+  height: 17vh;
+}
+.container p{
+  display: flex;
+  align-items:flex-start;
+  color:blue;
+}
+.container h1{
+  color:blueviolet;
+}
+
